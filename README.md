@@ -1,16 +1,14 @@
-## Hi there 👋
+# Kapil Madan
 
-<!--
-**kmadan/kmadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of Resultant Labs, building an AI-native SDLC orchestration platform for enterprise software teams.
 
-Here are some ideas to get you started:
+I have spent 30+ years building and operating mission-critical software across enterprise SaaS, cloud, compliance, financial markets, analytics, and engineering systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Resultant Labs is focused on a simple thesis: as AI accelerates software creation, enterprises need stronger continuity between intent, requirements, design, code, tests, evidence, and operations.
+
+Core interests:
+- AI-human software delivery
+- SDLC orchestration
+- Enterprise AI governance
+- Cloud and platform architecture
+- Traceability, verification, and engineering systems
